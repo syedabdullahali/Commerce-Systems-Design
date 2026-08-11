@@ -1027,7 +1027,7 @@ Customer / Vendor / Admin / Mobile
 
 ---
 
-# 28. Recruiter-Facing Summary
+# 28.Summary
 
 **Commerce Systems Architecture**
 
